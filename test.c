@@ -2,6 +2,6 @@
 
 int main(){
 	int i, j, k, l;
-	char c;
+	char c, str[100];
 	return 0;
 }
