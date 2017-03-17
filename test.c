@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-	int i, j;
+	int i, j, k;
 	return 0;
 }
