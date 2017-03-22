@@ -5,6 +5,7 @@ int main(){
 	char c, str[100];
 	for(i=0;i<10;i++){
 		printf("hello world");
+		printf("___________");
 	}
 	return 0;
 }
